@@ -1,0 +1,13 @@
+{
+  "$schema": "https://schema.railpack.com",
+  "buildAptPackages": [
+    "build-essential",
+    "pkg-config",
+    "libpixman-1-dev",
+    "libcairo2-dev",
+    "libjpeg-dev",
+    "libpango1.0-dev",
+    "libgif-dev",
+    "librsvg2-dev"
+  ]
+}
