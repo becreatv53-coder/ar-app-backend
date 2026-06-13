@@ -1,0 +1,6 @@
+[build]
+
+[deploy]
+
+[deploy.variables]
+RAILPACK_BUILD_APT_PACKAGES = "build-essential pkg-config libpixman-1-dev libcairo2-dev libjpeg-dev libpango1.0-dev libgif-dev librsvg2-dev"
